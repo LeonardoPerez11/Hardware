@@ -5,7 +5,7 @@ overflow: hidden;
 
 /* style the links inside the navigation bar */
 
-.topnav a{
+.topnav {
 float:left;
 display: block;
 color: #f2f2f2;
